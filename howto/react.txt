@@ -1,0 +1,14 @@
+0. Create React App
+npx create-react-app [[YOUR PROJECT NAME]]
+cd [[YOUR PROJECT NAME]]
+npm start
+
+1. VS Code - Extensions
+react native react redux snippet
+
+2. FontAwesome
+npm i --save @fortawesome/fontawesome-svg-core
+# Free icons styles
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+npm i --save @fortawesome/react-fontawesome@latest
