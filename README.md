@@ -21,4 +21,6 @@
 2.  start project
     - `yarn dev`
 
----
+## Docs
+
+- Project plan doc : https://docs.google.com/presentation/d/10t1XKC_WYvpEXCWHJboljxJTg3L1IBCT5YkOp417N-c/edit?usp=sharing
