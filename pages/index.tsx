@@ -1,8 +1,8 @@
-import type { NextPage } from "next";
-import { Box } from "@mui/material";
+import type {NextPage} from "next"
+import {Box} from "@mui/material"
 
 const Home: NextPage = () => {
-  return <Box>content</Box>;
-};
+  return <Box>content</Box>
+}
 
-export default Home;
+export default Home
