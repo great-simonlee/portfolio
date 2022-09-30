@@ -1,8 +1,16 @@
 import type {NextPage} from "next"
-import {Box} from "@mui/material"
+import {Box, Stack, Container} from "@mui/material"
+import Footer from "../components/layout/Footer"
 
 const Home: NextPage = () => {
-  return <Box>content</Box>
+  return (
+    <Container maxWidth="lg" sx={{height: "100%", width: "100%"}}>
+      <Stack alignItems="center" height="100%">
+        <Box height="100%">zz</Box>
+        <Footer />
+      </Stack>
+    </Container>
+  )
 }
 
 export default Home
